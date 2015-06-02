@@ -29,6 +29,9 @@ bld/
 # .NET Managed Resources File
 *.resx
 
+# .NET XML config
+*.config
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
