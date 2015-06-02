@@ -1,0 +1,2 @@
+This project was carried out over my second Academic year at university with two other people, at the start of the year we chose to design a hotel reservation system. 
+We designed the project from the bottom up using Database software as our storage and a C# program with a user interactive menu system as the front-end.
