@@ -21,9 +21,13 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+[Pp]roperties
 
 # Visual Studio 2015 cache/options directory
 .vs/
+
+# .NET Managed Resources File
+*.resx
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
